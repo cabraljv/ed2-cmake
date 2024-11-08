@@ -1,0 +1,3 @@
+/home/cabraljv/ufjf/ed2/build/CMakeFiles/hello.dir
+/home/cabraljv/ufjf/ed2/build/CMakeFiles/edit_cache.dir
+/home/cabraljv/ufjf/ed2/build/CMakeFiles/rebuild_cache.dir
